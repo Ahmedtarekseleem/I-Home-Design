@@ -1,0 +1,54 @@
+/* start navbar */
+.navbar-bg {
+    background: rgb(26 26 26);
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.nav-item{
+    margin-left: 20px;
+}
+
+/* end navbar */
+
+/* start header */
+.hero-overlay{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.owl-theme .owl-dots{
+position: absolute;
+bottom: 0;
+left: 50%;
+transform: translateX(-50%);
+}
+nav .show{
+    background-color: #000000a8;
+    text-align: center;
+}
+.hero-title{
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 86px;
+}
+
+.the-typed{
+    line-height: 60px;
+    font-weight: 600;
+}
+
+
+.typed-cursor {
+    font-size: 40px;
+}
+/* end header */
+
+
+/* start testomonial */
+section .owl-theme .owl-dots{
+    position: absolute;
+    bottom: -20px;
+    } 
+/* end testomonial */
